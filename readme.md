@@ -12,7 +12,7 @@ This is where your description should go. Take a look at [contributing.md](contr
 Via Composer
 
 ``` bash
-$ composer require paulayuk/laravel-medium
+$ composer require paulayuk/laravelmedium
 ```
 
 ## Usage
@@ -33,16 +33,16 @@ Please see [contributing.md](contributing.md) for details and a todolist.
 
 ## Security
 
-If you discover any security related issues, please email author email instead of using the issue tracker.
+If you discover any security related issues, please email ayukpaul1@gmail.com instead of using the issue tracker.
 
 ## Credits
 
-- [Paul Ayuk][https://github.com/paulayuk]
+- [Paul Ayuk][link-author]
 - [All Contributors][link-contributors]
 
 ## License
 
-license. Please see the [license file](license.md) for more information.
+MIT. Please see the [license file](license.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/paulayuk/laravelmedium.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/paulayuk/laravelmedium.svg?style=flat-square

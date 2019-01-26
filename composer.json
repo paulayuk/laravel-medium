@@ -1,7 +1,7 @@
 {
     "name": "paulayuk/laravel-medium",
     "description": ":description",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "Paul Ayuk",
