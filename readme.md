@@ -12,7 +12,7 @@ This is where your description should go. Take a look at [contributing.md](contr
 Via Composer
 
 ``` bash
-$ composer require paulayuk/laravelmedium
+$ composer require paulayuk/laravel-medium
 ```
 
 ## Usage
@@ -37,7 +37,7 @@ If you discover any security related issues, please email author email instead o
 
 ## Credits
 
-- [author name][link-author]
+- [Paul Ayuk][https://github.com/paulayuk]
 - [All Contributors][link-contributors]
 
 ## License
