@@ -1,0 +1,43 @@
+{
+    "name": "paulayuk/laravel-medium",
+    "description": ":description",
+    "license": "license",
+    "authors": [
+        {
+            "name": "Paul Ayuk",
+            "email": "ayukpaul1@gmail.com",
+            "homepage": "https://github.com/paulayuk"
+        }
+    ],
+    "homepage": "https://github.com/paulayuk/laravel-medium",
+    "keywords": ["Laravel", "LaravelMedium"],
+    "require": {
+        "illuminate/support": "~5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~7.0",
+        "mockery/mockery": "^1.1",
+        "orchestra/testbench": "~3.0",
+        "sempro/phpunit-pretty-print": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PaulAyuk\\LaravelMedium\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "PaulAyuk\\LaravelMedium\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PaulAyuk\\LaravelMedium\\LaravelMediumServiceProvider"
+            ],
+            "aliases": {
+                "LaravelMedium": "PaulAyuk\\LaravelMedium\\Facades\\LaravelMedium"
+            }
+        }
+    }
+}
